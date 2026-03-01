@@ -1,4 +1,4 @@
-# 🏠 Maison Connectée – ESP32
+# 🏠ESP32-Smart-Home-System
 
 ## 📌 Description
 Smart Home monitoring system using ESP32 with gas and rain detection.
